@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">TECHS</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">STATS</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
