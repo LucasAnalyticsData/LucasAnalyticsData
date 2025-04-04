@@ -106,6 +106,7 @@ AI-102: Azure AI Engineer Associate – Junho/2025
 
 </p>
 
+----
 
 <h2 align="left">Social Media</h2>
 
