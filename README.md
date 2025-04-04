@@ -106,11 +106,10 @@ AI-102: Azure AI Engineer Associate – Junho/2025
 
 </p>
 
-----
+
 
 <h2 align="left">Social Media</h2>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-oliveira-go/" target="_blank">
@@ -118,5 +117,5 @@ AI-102: Azure AI Engineer Associate – Junho/2025
   </a>
 </div>
 
-###
+
 
